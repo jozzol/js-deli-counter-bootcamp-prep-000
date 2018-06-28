@@ -7,4 +7,6 @@ function takeANumber(line, name){
 takeANumber(katzDeli, "Ada")
 takeANumber(katzDeli, "Grace")
 takeANumber(katzDeli, "Kent")
-function nowServing()
+function nowServing(line){
+  
+}
