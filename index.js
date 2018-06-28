@@ -21,5 +21,7 @@ function currentLine(line){
     return "The line is currently empty."
   }
   var nameAndNumbers = []
-  for (var)
+  for (var i = 0; i < 4; i++){
+    
+  }
 }
