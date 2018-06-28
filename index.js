@@ -23,6 +23,6 @@ function currentLine(line){
   var nameAndNumbers = []
   for (var i = 0; i < 4; i++){
     nameAndNumbers.push(i+1 + "." + line[i])
-    
   }
+  console.log("The line is currently "+ nameAndNumbers + "")
 }
