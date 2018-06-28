@@ -22,6 +22,6 @@ function currentLine(line){
   }
   var nameAndNumbers = []
   for (var i = 0; i < 4; i++){
-    nameAndNumbers.push(i+1)
+    nameAndNumbers.push(i+1 + "." +)
   }
 }
