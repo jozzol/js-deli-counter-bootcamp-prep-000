@@ -9,10 +9,10 @@ takeANumber(katzDeli, "Grace")
 takeANumber(katzDeli, "Kent")
 function nowServing(line){
   if(!line){
-    console.log("the line is empty")
-    return "the line is empty"
+    console.log("There is nobody waiting to be served!")
+    return "There is nobody waiting to be served!"
   }else {
-    return "currently serving" + line.shift()
+    return "currently serving " + line.shift()
   }
 }
 function currentline(line){
