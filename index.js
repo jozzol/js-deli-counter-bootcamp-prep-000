@@ -20,5 +20,6 @@ function currentLine(line){
     console.log("The line is currently empty.")
     return "The line is currently empty."
   }
-  var nameAndNumbers =
+  var nameAndNumbers = []
+  
 }
