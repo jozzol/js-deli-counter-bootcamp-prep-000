@@ -4,4 +4,4 @@ function takeANumber(line, name){
   console.log("Welcome, "+ name +"you are number "+ line.length +" in line")
   return "Welcome, "+ name +"you are number "+ line.length +" in line"
 }
-takeANumber()
+takeANumber(katzDeli, ada)
