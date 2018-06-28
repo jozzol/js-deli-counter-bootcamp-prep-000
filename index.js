@@ -15,4 +15,9 @@ function nowServing(line){
     return "currently serving" + line.shift()
   }
 }
-function currentline(line)
+function currentline(line){
+  if(line === []){
+    console.log("the line is currently empty")
+    return "the line is currently empty"
+  }
+}
