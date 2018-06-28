@@ -8,5 +8,5 @@ takeANumber(katzDeli, "Ada")
 takeANumber(katzDeli, "Grace")
 takeANumber(katzDeli, "Kent")
 function nowServing(line){
-  if
+  if()
 }
