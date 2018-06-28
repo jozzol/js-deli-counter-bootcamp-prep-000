@@ -12,6 +12,6 @@ function nowServing(line){
     console.log("the line is empty")
     return "the line is empty"
   }else {
-    
+    return "currently serving" + line.
   }
 }
