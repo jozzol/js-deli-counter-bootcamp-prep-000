@@ -5,3 +5,4 @@ function takeANumber(line, name){
   return "Welcome, "+ name +"you are number "+ line.length +" in line"
 }
 takeANumber(katzDeli, "ada")
+takeANumber(katzDeli, "grace")
