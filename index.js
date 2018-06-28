@@ -8,7 +8,7 @@ takeANumber(katzDeli, "Ada")
 takeANumber(katzDeli, "Grace")
 takeANumber(katzDeli, "Kent")
 function nowServing(line){
-  if(line === []){
+  if(!line){
     console.log("the line is empty")
     return "the line is empty"
   }else {
@@ -16,7 +16,7 @@ function nowServing(line){
   }
 }
 function currentline(line){
-  if(line === []){
+  if(!line){
     console.log("the line is currently empty")
     return "the line is currently empty"
   }
